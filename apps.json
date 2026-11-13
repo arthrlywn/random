@@ -4,18 +4,18 @@
   "apps": [
     {
       "name": "Almanac",
-      "bundleIdentifier": "com.example.almanac",
+      "bundleIdentifier": "com.leywin.almanac",
       "developerName": "arthrlywn",
       "version": "1.0.0",
       "versionDate": "2026-11-13",
       "downloadURL": "https://raw.githubusercontent.com/arthrlywn/random/main/Runner.ipa?v=1.0.0",
-      "size": 7760088,
+      "size": 7760096,
       "versions": [
         {
           "version": "1.0.0",
           "date": "2026-11-13",
           "downloadURL": "https://raw.githubusercontent.com/arthrlywn/random/main/Runner.ipa?v=1.0.0",
-          "size": 7760088
+          "size": 7760096
         }
       ]
     }
