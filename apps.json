@@ -9,6 +9,7 @@
       "version": "1.0.0",
       "versionDate": "2026-11-13",
       "downloadURL": "https://raw.githubusercontent.com/arthrlywn/random/main/Runner.ipa?v=1.0.0",
+      "iconURL": "https://raw.githubusercontent.com/arthrlywn/random/main/icon.png",
       "size": 7882256,
       "versions": [
         {
@@ -17,8 +18,7 @@
           "downloadURL": "https://raw.githubusercontent.com/arthrlywn/random/main/Runner.ipa?v=1.0.0",
           "size": 7882256
         }
-      ],
-      "iconURL": "https://raw.githubusercontent.com/arthrlywn/random/main/icon.png?v=1.0.0"
+      ]
     }
   ]
 }
