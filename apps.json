@@ -34,12 +34,25 @@
       "developerName": "arthrlywn",
       "version": "21.47.6",
       "versionDate": "2026-11-26",
-      "downloadURL": "https://github.com/arthrlywn/YouMod/releases/download/untagged-a864e19312a578d92f5a/YouMod_21.47.6_v2.0.0.ipa",
+      "downloadURL": "https://github.com/arthrlywn/YouMod/releases/download/youmod-ipa8/YouMod_21.47.6_v2.0.0.ipa",
       "iconURL": "https://raw.githubusercontent.com/arthrlywn/random/main/icon.png",
       "size": 136285843,
-      "versions": [],
+      "versions": [
+        {
+          "version": "21.47.6",
+          "date": "2026-11-26",
+          "downloadURL": "https://github.com/arthrlywn/YouMod/releases/download/youmod-ipa8/YouMod_21.47.6_v2.0.0.ipa",
+          "localizedDescription": "Latest YouMod build.",
+          "size": 136285843,
+          "buildNumber": "21476"
+        }
+      ],
       "buildNumber": "21476",
-      "subtitle": "YouMod 2.0.0"
+      "subtitle": "YouTube with YouMod tweaks · YouMod 2.0.0",
+      "versionDescription": "Latest YouMod build.",
+      "localizedDescription": "YouTube with YouMod tweaks pre-injected.",
+      "tintColor": "#FF0000",
+      "screenshotURLs": []
     }
   ],
   "sourceURL": "https://raw.githubusercontent.com/arthrlywn/random/main/apps.json",
