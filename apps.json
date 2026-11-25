@@ -16,11 +16,17 @@
           "version": "0.1.6",
           "date": "2026-11-26",
           "downloadURL": "https://raw.githubusercontent.com/arthrlywn/random/main/Runner.ipa?v=0.1.6",
+          "localizedDescription": "Latest build.",
           "size": 9155713,
           "buildNumber": "7"
         }
       ],
-      "buildNumber": "7"
+      "buildNumber": "7",
+      "versionDescription": "Latest build.",
+      "localizedDescription": "Almanac is a lightweight daily planner.",
+      "tintColor": "#4F8EF7",
+      "screenshotURLs": [],
+      "subtitle": "A simple daily planner"
     },
     {
       "name": "YouTube (YouMod)",
@@ -35,5 +41,11 @@
       "buildNumber": "21476",
       "subtitle": "YouMod 2.0.0"
     }
-  ]
+  ],
+  "sourceURL": "https://raw.githubusercontent.com/arthrlywn/random/main/apps.json",
+  "iconURL": "https://raw.githubusercontent.com/arthrlywn/random/main/icon.png",
+  "userinfo": {},
+  "news": [],
+  "version": 1,
+  "apiVersion": "1.0"
 }
