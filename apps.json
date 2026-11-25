@@ -7,16 +7,16 @@
       "bundleIdentifier": "com.leywin.almanac",
       "developerName": "arthrlywn",
       "version": "0.1.6",
-      "versionDate": "2026-11-25",
+      "versionDate": "2026-11-26",
       "downloadURL": "https://raw.githubusercontent.com/arthrlywn/random/main/Runner.ipa?v=0.1.6",
       "iconURL": "https://raw.githubusercontent.com/arthrlywn/random/main/icon.png",
-      "size": 9116543,
+      "size": 9117369,
       "versions": [
         {
           "version": "0.1.6",
-          "date": "2026-11-25",
+          "date": "2026-11-26",
           "downloadURL": "https://raw.githubusercontent.com/arthrlywn/random/main/Runner.ipa?v=0.1.6",
-          "size": 9116543,
+          "size": 9117369,
           "buildNumber": "7"
         }
       ],
