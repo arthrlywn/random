@@ -21,6 +21,19 @@
         }
       ],
       "buildNumber": "7"
+    },
+    {
+      "name": "YouTube (YouMod)",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "arthrlywn",
+      "version": "21.47.6",
+      "versionDate": "2026-11-26",
+      "downloadURL": "https://github.com/arthrlywn/YouMod/releases/download/untagged-a864e19312a578d92f5a/YouMod_21.47.6_v2.0.0.ipa",
+      "iconURL": "https://raw.githubusercontent.com/arthrlywn/random/main/icon.png",
+      "size": 136285843,
+      "versions": [],
+      "buildNumber": "21476",
+      "subtitle": "YouMod 2.0.0"
     }
   ]
 }
