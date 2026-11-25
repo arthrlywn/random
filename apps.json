@@ -6,21 +6,21 @@
       "name": "Almanac",
       "bundleIdentifier": "com.leywin.almanac",
       "developerName": "arthrlywn",
-      "version": "0.1.4",
-      "versionDate": "2026-11-21",
-      "downloadURL": "https://raw.githubusercontent.com/arthrlywn/random/main/Runner.ipa?v=0.1.4",
+      "version": "0.1.6",
+      "versionDate": "2026-11-25",
+      "downloadURL": "https://raw.githubusercontent.com/arthrlywn/random/main/Runner.ipa?v=0.1.6",
       "iconURL": "https://raw.githubusercontent.com/arthrlywn/random/main/icon.png",
-      "size": 8715433,
+      "size": 9107785,
       "versions": [
         {
-          "version": "0.1.4",
-          "date": "2026-11-21",
-          "downloadURL": "https://raw.githubusercontent.com/arthrlywn/random/main/Runner.ipa?v=0.1.4",
-          "size": 8715433,
-          "buildNumber": "5"
+          "version": "0.1.6",
+          "date": "2026-11-25",
+          "downloadURL": "https://raw.githubusercontent.com/arthrlywn/random/main/Runner.ipa?v=0.1.6",
+          "size": 9107785,
+          "buildNumber": "7"
         }
       ],
-      "buildNumber": "5"
+      "buildNumber": "7"
     }
   ]
 }
