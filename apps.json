@@ -1,6 +1,12 @@
 {
   "name": "Leywin's Repo",
   "identifier": "com.arthrlywn.random",
+  "sourceURL": "https://raw.githubusercontent.com/arthrlywn/random/main/apps.json",
+  "iconURL": "https://raw.githubusercontent.com/arthrlywn/random/main/icon.png",
+  "userinfo": {},
+  "news": [],
+  "version": 2,
+  "apiVersion": "2.0",
   "apps": [
     {
       "name": "Almanac",
@@ -8,9 +14,15 @@
       "developerName": "arthrlywn",
       "version": "0.1.6",
       "versionDate": "2026-11-26",
+      "versionDescription": "Latest build.",
       "downloadURL": "https://raw.githubusercontent.com/arthrlywn/random/main/Runner.ipa?v=0.1.6",
+      "localizedDescription": "Almanac is a lightweight daily planner.",
       "iconURL": "https://raw.githubusercontent.com/arthrlywn/random/main/icon.png",
+      "tintColor": "#4F8EF7",
       "size": 9155713,
+      "screenshotURLs": [],
+      "subtitle": "A simple daily planner",
+      "buildNumber": "7",
       "versions": [
         {
           "version": "0.1.6",
@@ -20,13 +32,7 @@
           "size": 9155713,
           "buildNumber": "7"
         }
-      ],
-      "buildNumber": "7",
-      "versionDescription": "Latest build.",
-      "localizedDescription": "Almanac is a lightweight daily planner.",
-      "tintColor": "#4F8EF7",
-      "screenshotURLs": [],
-      "subtitle": "A simple daily planner"
+      ]
     },
     {
       "name": "YouTube (YouMod)",
@@ -34,31 +40,25 @@
       "developerName": "arthrlywn",
       "version": "21.47.6",
       "versionDate": "2026-11-26",
-      "downloadURL": "https://github.com/arthrlywn/YouMod/releases/download/youmod-ipa8/YouMod_21.47.6_v2.0.0.ipa",
+      "versionDescription": "Latest YouMod build.",
+      "downloadURL": "https://github.com/arthrlywn/YouMod/releases/download/youmod-ipa45722013593/YouMod_21.47.6_v2.0.0.ipa",
+      "localizedDescription": "YouTube with YouMod tweaks pre-injected.",
       "iconURL": "https://raw.githubusercontent.com/arthrlywn/random/main/icon.png",
+      "tintColor": "#FF0000",
       "size": 136285843,
+      "screenshotURLs": [],
+      "subtitle": "YouTube with YouMod tweaks · YouMod 2.0.0",
+      "buildNumber": "21476",
       "versions": [
         {
           "version": "21.47.6",
           "date": "2026-11-26",
-          "downloadURL": "https://github.com/arthrlywn/YouMod/releases/download/youmod-ipa8/YouMod_21.47.6_v2.0.0.ipa",
+          "downloadURL": "https://github.com/arthrlywn/YouMod/releases/download/youmod-ipa45722013593/YouMod_21.47.6_v2.0.0.ipa",
           "localizedDescription": "Latest YouMod build.",
           "size": 136285843,
           "buildNumber": "21476"
         }
-      ],
-      "buildNumber": "21476",
-      "subtitle": "YouTube with YouMod tweaks · YouMod 2.0.0",
-      "versionDescription": "Latest YouMod build.",
-      "localizedDescription": "YouTube with YouMod tweaks pre-injected.",
-      "tintColor": "#FF0000",
-      "screenshotURLs": []
+      ]
     }
-  ],
-  "sourceURL": "https://raw.githubusercontent.com/arthrlywn/random/main/apps.json",
-  "iconURL": "https://raw.githubusercontent.com/arthrlywn/random/main/icon.png",
-  "userinfo": {},
-  "news": [],
-  "version": 1,
-  "apiVersion": "1.0"
+  ]
 }
