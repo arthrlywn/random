@@ -27,9 +27,7 @@
           "localizedDescription": "Latest build.",
           "minOSVersion": "16.0"
         }
-      ],
-      "versionDescription": "Latest YouMod build.",
-      "screenshotURLs": []
+      ]
     },
     {
       "name": "YouTube (YouMod)",
@@ -44,33 +42,14 @@
       "versions": [
         {
           "version": "21.47.6",
-          "date": "2026-11-26",
-          "downloadURL": "https://github.com/arthrlywn/YouMod/releases/download/youmod-ipa9/YouMod_21.47.6_v2.0.0.ipa",
-          "localizedDescription": "Latest YouMod build.",
-          "size": 136286134,
-          "buildNumber": "21476"
-        },
-        {
-          "version": "21.47.6",
           "buildVersion": "21476",
           "date": "2026-11-26",
-          "size": 136285843,
-          "downloadURL": "https://github.com/arthrlywn/YouMod/releases/download/youmod-ipa8/YouMod_21.47.6_v2.0.0.ipa",
+          "size": 136286134,
+          "downloadURL": "https://github.com/arthrlywn/YouMod/releases/download/youmod-ipa9/YouMod_21.47.6_v2.0.0.ipa",
           "localizedDescription": "Latest YouMod build.",
           "minOSVersion": "16.0"
         }
-      ],
-      "versionDescription": "Latest YouMod build.",
-      "screenshotURLs": [],
-      "version": "21.47.6",
-      "versionDate": "2026-11-26",
-      "downloadURL": "https://github.com/arthrlywn/YouMod/releases/download/youmod-ipa9/YouMod_21.47.6_v2.0.0.ipa",
-      "size": 136286134,
-      "buildNumber": "21476"
+      ]
     }
-  ],
-  "sourceURL": "https://raw.githubusercontent.com/arthrlywn/random/main/apps.json",
-  "userinfo": {},
-  "version": 2,
-  "apiVersion": "2.0"
+  ]
 }
