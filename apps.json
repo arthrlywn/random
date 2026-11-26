@@ -22,7 +22,7 @@
           "version": "0.1.6",
           "buildVersion": "7",
           "date": "2026-11-26",
-          "size": 9155713,
+          "size": 9166924,
           "downloadURL": "https://raw.githubusercontent.com/arthrlywn/random/main/Runner.ipa?v=0.1.6",
           "localizedDescription": "Latest build.",
           "minOSVersion": "16.0"
@@ -33,7 +33,7 @@
       "name": "YouTube (YouMod)",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "arthrlywn",
-      "subtitle": "YouTube with YouMod tweaks · YouMod 2.0.0",
+      "subtitle": "YouTube with YouMod tweaks \u00b7 YouMod 2.0.0",
       "localizedDescription": "YouTube with YouMod tweaks pre-injected.",
       "iconURL": "https://raw.githubusercontent.com/arthrlywn/YouMod/main/Icon.png",
       "tintColor": "#FF0000",
